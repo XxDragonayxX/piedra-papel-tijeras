@@ -3,7 +3,7 @@
 //ALERT
 Swal.fire(
   "LEST GO, VERY FUNNY, PLAYING",
-  "Pierde o gana es tu eleccion",
+  "Pierde o gana es tu eleccion 😜",
   "success"
 );
 
